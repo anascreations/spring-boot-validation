@@ -110,7 +110,7 @@ When validation fails, the API returns a JSON response with detailed error messa
 
 ## Internationalization
 
-To get validation messages in a specific language, add the `lang` parameter to your requests:
+To get validation messages:
 
 ```
 POST /api/user/create
